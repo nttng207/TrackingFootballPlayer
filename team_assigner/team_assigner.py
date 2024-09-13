@@ -69,5 +69,6 @@ class TeamAssigner:
             team_id=1
 
         self.player_team_dict[player_id] = team_id
+        pass
 
         return team_id
